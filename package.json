@@ -1,0 +1,23 @@
+{
+  "name": "adt-htmltest",
+  "version": "1.0.0",
+  "description": "This package installs wjdp/htmltest in the `bin` folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "node prepare.js"
+  },
+  "keywords": [
+    "antora",
+    "documentation",
+    "link",
+    "check",
+    "htmltest"
+  ],
+  "author": "eskwayrd@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "decompress": "^4.2.1"
+  }
+}

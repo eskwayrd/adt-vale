@@ -1,0 +1,4 @@
+// vim: tw=0 ai et ts=2 sw=2
+= adt-vale
+
+This repo, when used as an NPM package, installs a platform/arch-appropriate binary for https://github.com/errata-ai/vale[`errata-ai/vale`^] in the project root's `bin` folder.
